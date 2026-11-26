@@ -1,0 +1,10 @@
+name: mlops
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - ipykernel
+  - jupyterlab
+  - pyarrow
+  - pandas
+prefix: /home/codespace/anaconda3/envs/mlops
